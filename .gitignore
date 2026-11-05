@@ -1,0 +1,16 @@
+# Dados gerados durante o uso, incluindo fotos dos prédios e contas dos analistas.
+# Git não deve incluir esses arquivos no histórico do código; o backup é feito separadamente.
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+data/*
+!data/.gitkeep
+
+# Arquivos automáticos do Python, ambiente local e relatórios/pacotes gerados.
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.coverage
+*.zip
+*.pdf

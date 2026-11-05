@@ -1,0 +1,4 @@
+# Biblioteca que cria os relatórios PDF. >= define o mínimo e < limita a versão principal.
+reportlab>=4.0,<5
+# Biblioteca de leitura, redimensionamento e conversão das fotos (importada no Python como PIL).
+Pillow>=10,<14
