@@ -1,6 +1,6 @@
 # CONTATOS: valor inicial do coordenador e conferência das listas de focais e FM.
 """Shared contact defaults and validation for department and FM contacts."""
-DEFAULT_COORDINATOR = 'Fabrício Gaban Pletitsch - (11) 94503-7889'
+DEFAULT_COORDINATOR = ''
 # Este valor é usado no preenchimento inicial; a ficha permite editá-lo depois.
 
 
